@@ -1,0 +1,57 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    width: 105%;
+    margin: 0px;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+#song_name {
+    box-shadow: 5px 5px 5px grey;
+    font-size: 40px;
+    margin: 0px;
+    padding: 20px;
+}
+
+canvas {
+    border: 10px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 50px;
+}
+
+.console {
+    width: 130px;
+    font-size: 18px;
+}
+
+.console_2 {
+    width: 130px;
+    font-size: 14px;
+}
+
+.pause_song_1 {
+    width: 130px;
+    font-size: 14px;
+}
+
+.pause_song_2 {
+    width: 130px;
+    font-size: 14px;
+}
+.stop_song_1 {
+    width: 130px;
+    font-size: 16px;
+}
+
+.stop_song_2 {
+    width: 130px;
+    font-size: 15px;
+}
